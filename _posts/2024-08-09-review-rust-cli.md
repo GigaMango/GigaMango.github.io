@@ -5,7 +5,7 @@ date: 2024-08-09 1:15:00 +09:00
 categories: [Book, Rust]
 tags:
   [
-    book, rust, tutorial
+    book, Rust, tutorial
   ]
 ---
 ## 리뷰::커맨드라인 러스트

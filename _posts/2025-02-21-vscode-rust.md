@@ -4,7 +4,6 @@ author: gccMango
 date: '2025-02-21 19:01:17'
 categories:
 - VScode
-- Rust
 tags:
 - vscode
 - setting
